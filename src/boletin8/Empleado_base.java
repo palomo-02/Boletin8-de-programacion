@@ -37,4 +37,12 @@ public class Empleado_base {
 		this.nombre = nombre;
 	}
 
+	public String getNombre1() {
+		return nombre;
+	}
+
+	public double getSalarioBase() {
+		return salarioBase;
+	}
+
 }
